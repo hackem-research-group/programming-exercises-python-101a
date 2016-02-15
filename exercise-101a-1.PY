@@ -1,6 +1,6 @@
 #!/usr/bin/python
 def numodd():
-    numero=raw_input("ingrese un numero:")
+    numero=raw_input("Ingrese un numero:")
     if float(numero) % 2 == 0:
         print "el numero es par"
     else:
