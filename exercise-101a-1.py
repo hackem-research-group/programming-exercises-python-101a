@@ -5,3 +5,5 @@ def numodd():
         print "el numero es par"
     else:
         print "el numero es impar"
+
+numodd()
